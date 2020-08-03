@@ -47,7 +47,7 @@ def get_data():
 		{
 			"module_name": "Stock",
 			"category": "Modules",
-			"label": _("stock"),
+			"label": _("Stock"),
 			"color": "#f39c12",
 			"icon": "octicon octicon-package",
 			"type": "module",
