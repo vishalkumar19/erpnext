@@ -45,9 +45,9 @@ def get_data():
 			"description": "Purchasing, suppliers, material requests, and items."
 		},
 		{
-			"module_name": "Inventory Management",
+			"module_name": "Stock	",
 			"category": "Modules",
-			"label": _("Inventory Management"),
+			"label": _("Stock"),
 			"color": "#f39c12",
 			"icon": "octicon octicon-package",
 			"type": "module",
