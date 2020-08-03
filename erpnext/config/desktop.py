@@ -45,7 +45,7 @@ def get_data():
 			"description": "Purchasing, suppliers, material requests, and items."
 		},
 		{
-			"module_name": "Stock	",
+			"module_name": "Stock",
 			"category": "Modules",
 			"label": _("Stock"),
 			"color": "#f39c12",
@@ -79,6 +79,15 @@ def get_data():
 			"icon": "octicon octicon-broadcast",
 			"type": "module",
 			"description": "Sales pipeline, leads, opportunities and customers."
+		},
+		{
+			"module_name": "Loan Management",
+			"category": "Modules",
+			"label": _("Loan Management"),
+			"color": "#EF4DB6",
+			"icon": "octicon octicon-repo",
+			"type": "module",
+			"description": "Loan Management for Customer and Employees"
 		},
 		{
 			"module_name": "Support",
