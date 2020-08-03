@@ -45,7 +45,7 @@ def get_data():
 			"description": "Purchasing, suppliers, material requests, and items."
 		},
 		{
-			"module_name": "Stock",
+			"module_name": "Inventory Management",
 			"category": "Modules",
 			"label": _("Inventory Management"),
 			"color": "#f39c12",
